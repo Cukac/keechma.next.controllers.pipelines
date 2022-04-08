@@ -1,3 +1,3 @@
 ## Keechma-next controller
 
-# router
+# pipelines
